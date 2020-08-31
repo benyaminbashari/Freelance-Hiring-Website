@@ -10,7 +10,8 @@
 * Implemented a backend system using Spring framework in Java, and provided a RESTful API.
 * Learned about Object-Relational Mapping (ORM) and worked with Hibernate in Java.
 
+![Image of Frontend](./images/front.png)
+
 
 ### Todo
 * Add backend code
-* Add screenshot of frontend
